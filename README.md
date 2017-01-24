@@ -6,6 +6,8 @@
 3:: If the attached device doest not detected, hit Refresh
 
 ![Screenshot](SerialCom.JPG)
+
+
 4:: Minimum requirements
     .NET framework version 3.5 or above
     32-bit (x86) or 64-bit (x64) processors
