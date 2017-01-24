@@ -12,3 +12,4 @@
     .NET framework version 3.5 or above
     32-bit (x86) or 64-bit (x64) processors
     Dual-core, 2.66-GHz or faster processor
+    
