@@ -9,8 +9,11 @@
 
 
 4:: Minimum requirements </br>
-    .NET framework version 3.5 or above </br>
-    32-bit (x86) or 64-bit (x64) processors</br>
-    Dual-core, 2.66-GHz or faster processor
 
+<ul style="list-style-type:disc">
+  <li>.NET framework version 3.5 or above</li>
+  <li> 32-bit (x86) or 64-bit (x64) processors</li>
+  <li> Dual-core, 2.66-GHz or faster processor</li>
+</ul>  
+   
 
