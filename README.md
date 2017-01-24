@@ -5,4 +5,4 @@
 
 3:: If the attached device doest not detected, hit Refresh
 
-4:: 
+![Screenshot](SerialCom.png)
