@@ -1,0 +1,33 @@
+c:\users\yadu\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+c:\users\yadu\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\yadu\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Yadu\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yadu\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yadu\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Synapse Systems.exe.config
+C:\Users\Yadu\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Synapse Systems.exe
+C:\Users\Yadu\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Synapse Systems.pdb
+C:\Users\Yadu\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Synapse Systems.exe
+C:\Users\Yadu\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Synapse Systems.pdb
+C:\Users\Yadu\Documents\Visual Studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Synapse.resources
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Synapse Systems.exe.config
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Synapse Systems.exe
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Synapse Systems.pdb
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Synapse Systems.exe
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Synapse Systems.pdb
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Yadu\Documents\Work\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.SerialCom.resources
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.SerialCom.resources
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\bin\Debug\SerialCom.exe.config
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\bin\Debug\SerialCom.exe
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\bin\Debug\SerialCom.pdb
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\obj\Debug\SerialCom.exe
+C:\Users\Yadu\Documents\Work\SerialCom\WindowsFormsApplication7\obj\Debug\SerialCom.pdb
