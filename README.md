@@ -1,5 +1,5 @@
 # SerialCom-WindowsApp
-1:: This Windows application can be used to communicate with almost any type of electronic devices connected through serial .
+1:: This Windows application can be used to communicate with almost any type of electronic devices connected through serial
 
 2:: SerialCom will automatically detects the available attached devices from the bootup itsekf
 
