@@ -18,21 +18,14 @@ namespace WindowsFormsApplication7
     public partial class SerialCom : Form
     {
         SerialPort SerialPortCommunication;
-
-       
+        
        public SerialCom()
         {
-
-         
             InitializeComponent();
            
         }
-
-
         private void Form1_Load(object sender, EventArgs e)
         {
-
-
 
             Baud_Rate.Items.Add(300);
             Baud_Rate.Items.Add(600);
@@ -46,7 +39,6 @@ namespace WindowsFormsApplication7
             Baud_Rate.Items.Add(57600);
             Baud_Rate.SelectedItem = 300;
 
-
             StopBits_Inputs.Items.Add(1);
             StopBits_Inputs.Items.Add(2);
             StopBits_Inputs.SelectedItem = 2;
@@ -59,7 +51,6 @@ namespace WindowsFormsApplication7
             Parity_Input.Items.Add("Odd");
             Parity_Input.Items.Add("None");
             Parity_Input.SelectedItem = "None";
-
 
             try
             {
@@ -80,7 +71,6 @@ namespace WindowsFormsApplication7
             catch
             {
                 
-
                 MessageBox.Show("No Ports are available hit Refresh", "Port_error",
                 MessageBoxButtons.OK, MessageBoxIcon.Error);
                // MessageBox.Show("No Ports are available hit Refresh");
@@ -93,7 +83,6 @@ namespace WindowsFormsApplication7
         }
 
        
-
         private void baudrate_SelectedIndexChanged(object sender, EventArgs e)
         {
 
@@ -124,22 +113,17 @@ namespace WindowsFormsApplication7
                    MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
-
-
         }
 
  
         private void DataReceivedEventHandler(object sender, SerialDataReceivedEventArgs e)
         {
 
-
                         byte[] DataBuffer = new byte[2048];
                        
                         int ReadDataSerial =SerialPortCommunication.Read(DataBuffer, 0, DataBuffer.Length);
             
                         string SerialReceiveData = System.Text.Encoding.UTF8.GetString(DataBuffer);
-
-
 
 
                         Invoke((MethodInvoker)(() => response_box.AppendText(SerialReceiveData)));
@@ -160,8 +144,6 @@ namespace WindowsFormsApplication7
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-           
-
            
             int Input_Buad_rate = Convert.ToInt32(Baud_Rate.Text);
             int Input_Data_Bits = Convert.ToInt32(DataBits_Input.Text);
@@ -208,7 +190,6 @@ namespace WindowsFormsApplication7
 
 
             SerialPortCommunication.DataReceived += new SerialDataReceivedEventHandler(DataReceivedEventHandler);
-
 
         }
 
